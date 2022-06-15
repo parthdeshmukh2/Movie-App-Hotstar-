@@ -3,7 +3,7 @@ Disney+ Hotstar (also known as Hotstar) is an Indian brand of subscription video
 
 Deployment Link:- "https://compassionate-neumann-17df4e.netlify.app/"
 
-Tech Stack Used:-
+# Tech Stack Used:-
 
 •	HTML
 
@@ -14,7 +14,7 @@ Tech Stack Used:-
 •	LocalStorage
 
 
-Pages Build :
+# Pages Build :
 
 Home Page:
 
